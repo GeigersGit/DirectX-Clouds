@@ -1,0 +1,336 @@
+﻿  homework 4.cpp
+d:\directx sdk\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50092): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+d:\directx sdk\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50101): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+d:\directx sdk\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50110): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+d:\directx sdk\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50119): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+d:\directx sdk\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50128): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+d:\directx sdk\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50137): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+d:\directx sdk\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50146): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+d:\directx sdk\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50161): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+d:\directx sdk\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50170): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+d:\directx sdk\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50179): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+d:\directx sdk\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50188): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+d:\directx sdk\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50197): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+d:\directx sdk\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50206): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+d:\directx sdk\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50216): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+d:\directx sdk\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50225): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+d:\directx sdk\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50235): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+d:\directx sdk\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50244): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+d:\directx sdk\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50254): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+d:\directx sdk\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50263): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+d:\directx sdk\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50272): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+d:\directx sdk\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50282): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+d:\directx sdk\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50291): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+d:\directx sdk\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50469): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+d:\directx sdk\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50478): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+d:\directx sdk\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50488): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+d:\directx sdk\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50497): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+d:\directx sdk\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50445): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+d:\directx sdk\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50454): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+d:\directx sdk\include\xnamath.h(2662): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2663): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2664): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2665): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2666): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2667): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2668): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2689): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2690): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2691): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2694): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2695): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2698): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2702): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2712): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2713): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2715): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2716): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2717): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2727): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2728): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2729): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2730): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2731): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2732): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2742): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2743): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2754): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(2254): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4523): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4577): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4639): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4707): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4770): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4832): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathvector.inl(1269): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathmisc.inl(518): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathmisc.inl(519): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\media\projects\directx clouds\groundwork.h(65): warning C4552: '/': operator has no effect; expected operator with side-effect
+d:\media\projects\directx clouds\groundwork.h(99): warning C4100: 'ViewMatrix': unreferenced formal parameter
+d:\media\projects\directx clouds\groundwork.h(242): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(244): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(246): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(248): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(253): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(258): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(291): warning C4018: '>=': signed/unsigned mismatch
+d:\media\projects\directx clouds\groundwork.h(296): warning C4018: '>=': signed/unsigned mismatch
+d:\media\projects\directx clouds\groundwork.h(316): warning C4018: '<': signed/unsigned mismatch
+d:\media\projects\directx clouds\groundwork.h(320): warning C4018: '>=': signed/unsigned mismatch
+d:\media\projects\directx clouds\groundwork.h(365): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(381): warning C4244: '-=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(382): warning C4244: '-=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(383): warning C4244: '-=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(387): warning C4244: '+=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(388): warning C4244: '+=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(389): warning C4244: '+=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(417): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(418): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(419): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(452): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(453): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(454): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\controller.h(106): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+d:\media\projects\directx clouds\controller.h(107): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(142): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(876): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(872): warning C4100: 'keyFlags': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(872): warning C4100: 'y': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(872): warning C4100: 'x': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(872): warning C4100: 'fDoubleClick': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(872): warning C4100: 'hwnd': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(894): warning C4100: 'keyFlags': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(894): warning C4100: 'y': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(894): warning C4100: 'x': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(894): warning C4100: 'fDoubleClick': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(894): warning C4100: 'hwnd': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(901): warning C4100: 'cRepeat': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(901): warning C4100: 'ch': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(901): warning C4100: 'hwnd': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(908): warning C4100: 'keyFlags': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(908): warning C4100: 'y': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(908): warning C4100: 'x': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(908): warning C4100: 'hwnd': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(916): warning C4100: 'keyFlags': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(916): warning C4100: 'y': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(916): warning C4100: 'x': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(916): warning C4100: 'hwnd': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(952): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(962): warning C4100: 'lpCreateStruct': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(977): warning C4100: 'id': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(977): warning C4100: 'hwnd': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(982): warning C4100: 'flags': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(982): warning C4100: 'cRepeat': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(982): warning C4100: 'fDown': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(982): warning C4100: 'hwnd': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1001): warning C4100: 'flags': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1001): warning C4100: 'cRepeat': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1001): warning C4100: 'fDown': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1001): warning C4100: 'hwnd': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1147): warning C4459: declaration of 'g_pd3dDevice' hides global declaration
+  d:\media\projects\directx clouds\homework 4.cpp(27): note: see declaration of 'g_pd3dDevice'
+d:\media\projects\directx clouds\homework 4.cpp(1147): warning C4459: declaration of 'vertex_count' hides global declaration
+  d:\media\projects\directx clouds\homework 4.cpp(77): note: see declaration of 'vertex_count'
+d:\media\projects\directx clouds\homework 4.cpp(1212): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1214): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1215): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1243): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1248): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1298): warning C4018: '<': signed/unsigned mismatch
+d:\media\projects\directx clouds\homework 4.cpp(1300): warning C4456: declaration of 'constantbuffer' hides previous local declaration
+  d:\media\projects\directx clouds\homework 4.cpp(1234): note: see declaration of 'constantbuffer'
+d:\media\projects\directx clouds\homework 4.cpp(1335): warning C4456: declaration of 'd3dtexture' hides previous local declaration
+  d:\media\projects\directx clouds\homework 4.cpp(1288): note: see declaration of 'd3dtexture'
+d:\media\projects\directx clouds\homework 4.cpp(1379): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1380): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1385): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1459): warning C4018: '<': signed/unsigned mismatch
+d:\media\projects\directx clouds\homework 4.cpp(1461): warning C4456: declaration of 'constantbuffer' hides previous local declaration
+  d:\media\projects\directx clouds\homework 4.cpp(1371): note: see declaration of 'constantbuffer'
+d:\media\projects\directx clouds\homework 4.cpp(1498): warning C4456: declaration of 'd3dtexture' hides previous local declaration
+  d:\media\projects\directx clouds\homework 4.cpp(1449): note: see declaration of 'd3dtexture'
+d:\media\projects\directx clouds\homework 4.cpp(1519): warning C4100: 'elapsed': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1535): warning C4101: 'det': unreferenced local variable
+d:\media\projects\directx clouds\homework 4.cpp(1572): warning C4100: 'elapsed': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1621): warning C4100: 'elapsed': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1639): warning C4101: 'det': unreferenced local variable
+d:\media\projects\directx clouds\homework 4.cpp(1680): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1681): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1686): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1687): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1688): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1695): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1750): warning C4018: '<': signed/unsigned mismatch
+d:\media\projects\directx clouds\homework 4.cpp(1780): warning C4018: '<': signed/unsigned mismatch
+d:\media\projects\directx clouds\homework 4.cpp(1783): warning C4456: declaration of 'constantbuffer' hides previous local declaration
+  d:\media\projects\directx clouds\homework 4.cpp(1727): note: see declaration of 'constantbuffer'
+d:\media\projects\directx clouds\homework 4.cpp(1704): warning C4100: 'elapsed': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1812): warning C4100: 'elapsed': unreferenced formal parameter
+d:\media\projects\directx clouds\homework 4.cpp(1873): warning C4244: 'initializing': conversion from 'long double' to 'long', possible loss of data
+d:\media\projects\directx clouds\homework 4.cpp(1876): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+  render_to_texture.cpp
+d:\directx sdk\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50092): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+d:\directx sdk\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50101): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+d:\directx sdk\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50110): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+d:\directx sdk\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50119): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+d:\directx sdk\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50128): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+d:\directx sdk\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50137): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+d:\directx sdk\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50146): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+d:\directx sdk\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50161): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+d:\directx sdk\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50170): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+d:\directx sdk\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50179): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+d:\directx sdk\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50188): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+d:\directx sdk\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50197): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+d:\directx sdk\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50206): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+d:\directx sdk\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50216): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+d:\directx sdk\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50225): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+d:\directx sdk\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50235): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+d:\directx sdk\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50244): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+d:\directx sdk\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50254): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+d:\directx sdk\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50263): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+d:\directx sdk\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50272): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+d:\directx sdk\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50282): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+d:\directx sdk\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50291): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+d:\directx sdk\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50469): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+d:\directx sdk\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50478): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+d:\directx sdk\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50488): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+d:\directx sdk\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50497): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+d:\directx sdk\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50445): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+d:\directx sdk\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\winerror.h(50454): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+d:\directx sdk\include\xnamath.h(2662): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2663): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2664): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2665): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2666): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2667): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2668): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2689): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2690): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2691): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2694): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2695): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2698): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2702): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2712): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2713): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2715): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2716): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2717): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2727): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2728): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2729): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2730): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2731): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2732): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2742): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2743): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamath.h(2754): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(2254): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4523): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4577): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4639): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4707): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4770): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathconvert.inl(4832): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathvector.inl(1269): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathmisc.inl(518): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\directx sdk\include\xnamathmisc.inl(519): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
+d:\media\projects\directx clouds\groundwork.h(65): warning C4552: '/': operator has no effect; expected operator with side-effect
+d:\media\projects\directx clouds\groundwork.h(99): warning C4100: 'ViewMatrix': unreferenced formal parameter
+d:\media\projects\directx clouds\groundwork.h(242): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(244): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(246): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(248): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(253): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(258): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(291): warning C4018: '>=': signed/unsigned mismatch
+d:\media\projects\directx clouds\groundwork.h(296): warning C4018: '>=': signed/unsigned mismatch
+d:\media\projects\directx clouds\groundwork.h(316): warning C4018: '<': signed/unsigned mismatch
+d:\media\projects\directx clouds\groundwork.h(320): warning C4018: '>=': signed/unsigned mismatch
+d:\media\projects\directx clouds\groundwork.h(365): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(381): warning C4244: '-=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(382): warning C4244: '-=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(383): warning C4244: '-=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(387): warning C4244: '+=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(388): warning C4244: '+=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(389): warning C4244: '+=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(417): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(418): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(419): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(452): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(453): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\groundwork.h(454): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+d:\media\projects\directx clouds\controller.h(106): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+d:\media\projects\directx clouds\controller.h(107): warning C4244: '=': conversion from 'int' to 'WORD', possible loss of data
+d:\media\projects\directx clouds\render_to_texture.cpp(19): warning C4101: 'renderTargetViewDesc': unreferenced local variable
+d:\media\projects\directx clouds\render_to_texture.cpp(158): warning C4100: 'mipmaps': unreferenced formal parameter
+d:\media\projects\directx clouds\render_to_texture.cpp(254): warning C4100: 'mipmaps': unreferenced formal parameter
+d:\media\projects\directx clouds\render_to_texture.cpp(254): warning C4100: 'uav_': unreferenced formal parameter
+d:\media\projects\directx clouds\render_to_texture.cpp(273): warning C4101: 'renderTargetViewDesc': unreferenced local variable
+d:\media\projects\directx clouds\render_to_texture.cpp(274): warning C4101: 'shaderResourceViewDesc': unreferenced local variable
+  Generating Code...
+d:\media\projects\directx clouds\render_to_texture.cpp(173): warning C4701: potentially uninitialized local variable 'textureWidth' used
+d:\media\projects\directx clouds\render_to_texture.cpp(174): warning C4701: potentially uninitialized local variable 'textureHeight' used
+d:\media\projects\directx clouds\render_to_texture.cpp(269): warning C4701: potentially uninitialized local variable 'textureWidth' used
+d:\media\projects\directx clouds\render_to_texture.cpp(270): warning C4701: potentially uninitialized local variable 'textureHeight' used
+d:\media\projects\directx clouds\homework 4.cpp(1212): warning C4702: unreachable code
+homework 4.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  lecture 8_2010.vcxproj -> D:\Media\Projects\DirectX Clouds\Debug\homework 4.exe
+  lecture 8_2010.vcxproj -> D:\Media\Projects\DirectX Clouds\Debug\homework 4.pdb (Full PDB)
